@@ -32,12 +32,6 @@
     "scrivano": "^0.1.0",
     "standard-version": "^9.3.0"
   },
-  "husky": {
-    "hooks": {
-      "precommit": "npm run format",
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
-  },
   "meta": {
     "title": "Title Case Converter",
     "repository": {
